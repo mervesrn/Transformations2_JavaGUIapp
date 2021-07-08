@@ -14,3 +14,5 @@ In this labwork, I writed a GUI application using AWT. <br>
 • The main method should create and display an instance of Transformations2().<br>
 • The frame should be set to the size 800 by 800.<br>
 • You can use a grid layout which is pretty straightforward.<br>
+
+https://github.com/mervesrn/Transformations_Java/blob/main/Ekran%20Resmi%202021-07-08%2011.06.50.png
